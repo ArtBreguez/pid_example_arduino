@@ -1,10 +1,10 @@
-# Exemplo de Controle PID
+# Exemplo de Controle PID + Feedforward
 
 Este repositório contém um exemplo de implementação de controle PID em um sistema usando Arduino.
 
 ## Descrição
 
-O código fornecido implementa um controlador PID simples para controlar uma variável de processo em relação a um setpoint desejado. O controlador PID é uma técnica comumente usada para sistemas de controle em que é necessário ajustar continuamente o sinal de controle com base no erro do sistema.
+O código fornecido implementa um controlador PID e feedforward simples para controlar uma variável de processo em relação a um setpoint desejado. O controlador PID é uma técnica comumente usada para sistemas de controle em que é necessário ajustar continuamente o sinal de controle com base no erro do sistema.
 
 ## Pré-requisitos
 
